@@ -1,1 +1,6 @@
-{}
+{
+  "dependencyDashboard": true,
+  "pip-compile": {"enabled": true},
+  "pip_requirements": {"enabled": false},
+  "pip_setup": {"enabled": false}
+}
